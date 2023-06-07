@@ -1,5 +1,27 @@
-# Project Portforlio
+# Portfolio Pages
 
-## Economic Calendar
+## Env
 
-"経済指標カレンダー" - an Alexa Skill that keeps you informed about the latest economic indicators announced each day.
+Install ruby and peripheral tools.
+
+- ruby
+- rbenv
+- gem
+- bundle/bundler
+- jekyll
+
+## How to run at local
+
+```bash
+cd docs/
+bundle exec jekyll serve
+```
+
+## Tips
+
+It is possible to add or remove ruby packages, Gem with bundle command.
+
+```bash
+bundle add <Gem name>
+bundle remove <Gem name>
+```
