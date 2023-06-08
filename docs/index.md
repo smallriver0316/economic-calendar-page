@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Project Portfolio
 ---
 
-# Works
+## Works
 
 ## [Economic Calendar](./economic-calendar)
 
